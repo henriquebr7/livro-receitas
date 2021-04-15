@@ -1,4 +1,4 @@
-Esta é uma atividade do curso de Git da [Digital Innovation One]. Aplicando os conceitos básicos de código, entendendo a diferença entre repositório local e remoto e utilizando a linguagem de marcação Markdown.
+Esta é uma atividade do curso de Git da [Digital Innovation One](https://digitalinnovation.one/). Aplicando os conceitos básicos de código, entendendo a diferença entre repositório local e remoto e utilizando a linguagem de marcação Markdown.
 
 
 # Livro de Receitas :man_cook:
